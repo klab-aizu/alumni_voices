@@ -3,7 +3,8 @@
 Thank you for participating in this survey. Your responses will help us improve our lab environment and support future students.
 
 Please fill out the following questions and submit your responses via this GitHub repository (commit directly or create a pull-request from anonymous account if you want to stay anonymous).
----
+
+```
 # Your Name | Graduation Year
 
 ## 1. General Information
@@ -41,6 +42,6 @@ Please fill out the following questions and submit your responses via this GitHu
 ## 6. Additional Comments
 - **Any other thoughts, feedback, or messages for the lab members or future students?**
 
----
+```
 
 Thank you for completing this survey! Your insights are valuable in shaping the future of the lab. Please submit your completed survey via the GitHub repository as per the given instructions.
