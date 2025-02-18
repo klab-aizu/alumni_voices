@@ -1,4 +1,3 @@
-```
 # Your Name | Graduation Year
 
 ## 1. General Information
@@ -87,4 +86,3 @@
 
 >> "If you desperately want something, the universe will conspire in helping you achieve it.”
 
-```
