@@ -1,2 +1,3 @@
-# student_voices
-Voice  of students
+# alumni's voice
+Voice  of alumni of the group.
+
