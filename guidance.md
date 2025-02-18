@@ -1,6 +1,6 @@
-# Lab Graduation Survey
+#  Graduation Survey
 
-Thank you for participating in this survey. Your responses will help us improve our lab environment and support future students.
+Thank you for participating in this survey. Your responses will help us improve our group environment and support future students.
 
 Please fill out the following questions and submit your responses via this GitHub repository (commit directly or create a pull-request from anonymous account if you want to stay anonymous).
 
@@ -25,23 +25,24 @@ Please fill out the following questions and submit your responses via this GitHu
 ## 3. Technical Skills and Development
 - **What programming languages, tools, or frameworks did you become proficient in?**
 - **Did you contribute to open-source projects or publish code? (If yes, provide links)**
-- **What new technical skills did you acquire during your time in the lab?**
+- **What new technical skills did you acquire during your time in the group?**
 
-## 4. Lab Experience and Feedback
-- **How would you describe the research environment in the lab?**
-- **What aspects of the lab were most helpful for your development?**
-- **What improvements would you suggest for the lab?**
+## 4. Group Experience and Feedback
+- **How would you describe the research environment in the group?**
+- **What aspects of the group were most helpful for your development?**
+- **What improvements would you suggest for the group?**
 - **How effective was the mentorship and guidance you received?**
 
 ## 5. Future Plans
 - **What are your next career steps? (e.g., industry, academia, entrepreneurship, etc.)**
 - **If pursuing a job, what is your job title and company/organization? (Optional)**
 - **If pursuing further education, what is your program and institution? (Optional)**
-- **How do you plan to stay connected with the lab and future students?**
+- **How do you plan to stay connected with the group and future students?**
 
 ## 6. Additional Comments
-- **Any other thoughts, feedback, or messages for the lab members or future students?**
+- **Any ideas to improve the working environements in the group?**
+- **Any other thoughts, feedback, or messages for the group members or future students?**
 
 ```
 
-Thank you for completing this survey! Your insights are valuable in shaping the future of the lab. Please submit your completed survey via the GitHub repository as per the given instructions.
+Thank you for completing this survey! Your insights are valuable in shaping the future of the group. Please submit your completed survey via the GitHub repository as per the given instructions.
