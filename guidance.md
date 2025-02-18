@@ -45,6 +45,8 @@ Please fill out the following questions and submit your responses via this GitHu
 
 ```
 
-Please add your answers to the file `<Year of Graduation>/<Your Name>.md`. For instance, if you graduated in 2023 and your name is Aizu Wakamatsu, please leave the answers to the file `2023/AizuWakamatsu.md`
+Please add your answers to the file `<Year of Graduation>/<Your Name>.md`. For instance, if you graduated in 2023 and your name is Aizu Wakamatsu, please leave the answers to the file `2023/AizuWakamatsu.md`.
+
+Please use pull request on Github. Check [this video](https://www.youtube.com/watch?v=jRLGobWwA3Y) or [this tutorial](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/) to know how to do it.
 
 Thank you for completing this survey! Your insights are valuable in shaping the future of the group. Please submit your completed survey via the GitHub repository as per the given instructions.
