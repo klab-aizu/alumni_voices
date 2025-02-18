@@ -18,7 +18,7 @@ Please fill out the following questions and submit your responses via this GitHu
 ## 2. Research Experience
 - **Briefly describe your research topic:**
 - **What were your key research contributions?**
-- **Which publications or conference presentations resulted from your work? (Provide citations if possible)**
+- **Which publications or conference presentations resulted from your work? **
 - **Which tools, software, or hardware did you primarily use in your research?**
 - **What challenges did you face, and how did you overcome them?**
 
