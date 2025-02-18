@@ -45,4 +45,6 @@ Please fill out the following questions and submit your responses via this GitHu
 
 ```
 
+Please add your answers to `<Year of Graduation>/<Your Name>.md`. For instance, if you graduated in 2023 and your name is Aizu Wakamatsu, please leave the answer at `2023/AizuWakamatsu.md`
+
 Thank you for completing this survey! Your insights are valuable in shaping the future of the group. Please submit your completed survey via the GitHub repository as per the given instructions.
