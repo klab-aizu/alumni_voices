@@ -2,7 +2,8 @@
 
 Thank you for participating in this survey. Your responses will help us improve our group environment and support future students.
 
-Please fill out the following questions and submit your responses via this GitHub repository (commit directly or create a pull-request from anonymous account if you want to stay anonymous).
+Please fill out the following questions and submit your responses via this GitHub repository (commit directly or create a pull-request from anonymous account if you want to stay anonymous).  Note: please remove the codeblock (```) in the following questions.
+
 
 ```
 # Your Name | Graduation Year
